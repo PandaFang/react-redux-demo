@@ -1,3 +1,15 @@
+在 react 项目中使用 redux 的样板代码
+
+第三方模块包含 redux react-redux react-thunk。前两者是必要的，而 thunk 是异步网络请求需要的中间件
+
+### `yarn install`
+安装所有第三方模块
+
+### `yarn start`
+开发模式启动服务器查看效果
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
